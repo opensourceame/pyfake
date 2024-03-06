@@ -1,0 +1,247 @@
+- name: United States
+  continent: North America
+  area: 9833520
+  population: 331449281
+  capital_city: Washington, D.C.
+  currency: United States Dollar
+  languages:
+    - English
+- name: Canada
+  continent: North America
+  area: 9984670
+  population: 38246108
+  capital_city: Ottawa
+  currency: Canadian Dollar
+  languages:
+    - English
+    - French
+- name: Brazil
+  continent: South America
+  area: 8515770
+  population: 213993437
+  capital_city: Brasília
+  currency: Brazilian Real
+  languages:
+    - Portuguese
+- name: India
+  continent: Asia
+  area: 3287263
+  population: 1393409038
+  capital_city: New Delhi
+  currency: Indian Rupee
+  languages:
+    - Hindi
+    - English
+- name: China
+  continent: Asia
+  area: 9596960
+  population: 1444216107
+  capital_city: Beijing
+  currency: Renminbi
+  languages:
+    - Mandarin
+- name: Australia
+  continent: Australia
+  area: 7692024
+  population: 25687041
+  capital_city: Canberra
+  currency: Australian Dollar
+  languages:
+    - English
+- name: Germany
+  continent: Europe
+  area: 357022
+  population: 83783942
+  capital_city: Berlin
+  currency: Euro
+  languages:
+    - German
+- name: France
+  continent: Europe
+  area: 551695
+  population: 65273511
+  capital_city: Paris
+  currency: Euro
+  languages:
+    - French
+- name: United Kingdom
+  continent: Europe
+  area: 243610
+  population: 68207116
+  capital_city: London
+  currency: Pound Sterling
+  languages:
+    - English
+- name: Russia
+  continent: Europe/Asia
+  area: 17098242
+  population: 146171015
+  capital_city: Moscow
+  currency: Russian Ruble
+  languages:
+    - Russian
+- name: Japan
+  continent: Asia
+  area: 377975
+  population: 126476461
+  capital_city: Tokyo
+  currency: Japanese Yen
+  languages:
+    - Japanese
+- name: South Africa
+  continent: Africa
+  area: 1221037
+  population: 60041977
+  capital_city: Pretoria, Bloemfontein, Cape Town
+  currency: South African Rand
+  languages:
+    - Zulu
+    - Xhosa
+    - Afrikaans
+    - English
+- name: Mexico
+  continent: North America
+  area: 1964375
+  population: 130262216
+  capital_city: Mexico City
+  currency: Mexican Peso
+  languages:
+    - Spanish
+- name: Argentina
+  continent: South America
+  area: 2780400
+  population: 45794406
+  capital_city: Buenos Aires
+  currency: Argentine Peso
+  languages:
+    - Spanish
+- name: Italy
+  continent: Europe
+  area: 301340
+  population: 60390560
+  capital_city: Rome
+  currency: Euro
+  languages:
+    - Italian
+- name: Spain
+  continent: Europe
+  area: 505990
+  population: 46742697
+  capital_city: Madrid
+  currency: Euro
+  languages:
+    - Spanish
+- name: Nigeria
+  continent: Africa
+  area: 923768
+  population: 206139587
+  capital_city: Abuja
+  currency: Nigerian Naira
+  languages:
+    - English
+- name: Egypt
+  continent: Africa
+  area: 1002450
+  population: 104258327
+  capital_city: Cairo
+  currency: Egyptian Pound
+  languages:
+    - Arabic
+- name: Indonesia
+  continent: Asia
+  area: 1904569
+  population: 276361783
+  capital_city: Jakarta
+  currency: Indonesian Rupiah
+  languages:
+    - Indonesian
+- name: Pakistan
+  continent: Asia
+  area: 881913
+  population: 233500636
+  capital_city: Islamabad
+  currency: Pakistani Rupee
+  languages:
+    - Urdu
+    - English
+- name: Bangladesh
+  continent: Asia
+  area: 147570
+  population: 166303498
+  capital_city: Dhaka
+  currency: Bangladeshi Taka
+  languages:
+    - Bengali
+- name: Turkey
+  continent: Asia/Europe
+  area: 783562
+  population: 85042747
+  capital_city: Ankara
+  currency: Turkish Lira
+  languages:
+    - Turkish
+- name: Iran
+  continent: Asia
+  area: 1648195
+  population: 84176929
+  capital_city: Tehran
+  currency: Iranian Rial
+  languages:
+    - Persian
+- name: Philippines
+  continent: Asia
+  area: 300000
+  population: 111046913
+  capital_city: Manila
+  currency: Philippine Peso
+  languages:
+    - Filipino
+    - English
+- name: Vietnam
+  continent: Asia
+  area: 331212
+  population: 98168813
+  capital_city: Hanoi
+  currency: Vietnamese Dong
+  languages:
+    - Vietnamese
+- name: Thailand
+  continent: Asia
+  area: 513120
+  population: 69799978
+  capital_city: Bangkok
+  currency: Thai Baht
+  languages:
+    - Thai
+- name: Colombia
+  continent: South America
+  area: 1141748
+  population: 51454884
+  capital_city: Bogotá
+  currency: Colombian Peso
+  languages:
+    - Spanish
+- name: Saudi Arabia
+  continent: Asia
+  area: 2149690
+  population: 35340682
+  capital_city: Riyadh
+  currency: Saudi Riyal
+  languages:
+    - Arabic
+- name: Ukraine
+  continent: Europe
+  area: 603550
+  population: 43733762
+  capital_city: Kyiv
+  currency: Ukrainian Hryvnia
+  languages:
+    - Ukrainian
+- name: Peru
+  continent: South America
+  area: 1285216
+  population: 33297225
+  capital_city: Lima
+  currency: Peruvian Sol
+  languages:
+    - Spanish
