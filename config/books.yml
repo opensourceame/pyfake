@@ -1,0 +1,192 @@
+---
+  - title: "To Kill a Mockingbird"
+    author: "Harper Lee"
+    publisher: "J.B. Lippincott & Co."
+    year: 1960
+    genre: "Classic, Fiction"
+
+  - title: "1984"
+    author: "George Orwell"
+    publisher: "Secker & Warburg"
+    year: 1949
+    genre: "Dystopian, Political fiction"
+
+  - title: "Pride and Prejudice"
+    author: "Jane Austen"
+    publisher: "T. Egerton, Whitehall"
+    year: 1813
+    genre: "Romance, Classic, Fiction"
+
+  - title: "The Great Gatsby"
+    author: "F. Scott Fitzgerald"
+    publisher: "Charles Scribner's Sons"
+    year: 1925
+    genre: "Fiction, Tragedy"
+
+  - title: "To the Lighthouse"
+    author: "Virginia Woolf"
+    publisher: "Hogarth Press"
+    year: 1927
+    genre: "Modernism, Fiction"
+
+  - title: "Moby-Dick"
+    author: "Herman Melville"
+    publisher: "Harper & Brothers"
+    year: 1851
+    genre: "Adventure, Novel"
+
+  - title: "The Catcher in the Rye"
+    author: "J.D. Salinger"
+    publisher: "Little, Brown and Company"
+    year: 1951
+    genre: "Coming-of-age, Fiction"
+
+  - title: "The Lord of the Rings"
+    author: "J.R.R. Tolkien"
+    publisher: "George Allen & Unwin"
+    year: 1954
+    genre: "Fantasy, Adventure"
+
+  - title: "One Hundred Years of Solitude"
+    author: "Gabriel García Márquez"
+    publisher: "Harper & Row"
+    year: 1967
+    genre: "Magic realism, Novel"
+
+  - title: "Jane Eyre"
+    author: "Charlotte Brontë"
+    publisher: "Smith, Elder & Co."
+    year: 1847
+    genre: "Gothic, Romance, Fiction"
+
+  - title: "Brave New World"
+    author: "Aldous Huxley"
+    publisher: "Chatto & Windus"
+    year: 1932
+    genre: "Dystopian, Science fiction"
+
+  - title: "War and Peace"
+    author: "Leo Tolstoy"
+    publisher: "The Russian Messenger"
+    year: 1869
+    genre: "Historical fiction, War novel"
+
+  - title: "Frankenstein"
+    author: "Mary Shelley"
+    publisher: "Lackington, Hughes, Harding, Mavor & Jones"
+    year: 1818
+    genre: "Gothic, Science fiction"
+
+  - title: "The Odyssey"
+    author: "Homer"
+    publisher: "Unknown"
+    year: -700
+    genre: "Epic poetry, Adventure"
+
+  - title: "Crime and Punishment"
+    author: "Fyodor Dostoevsky"
+    publisher: "The Russian Messenger"
+    year: 1866
+    genre: "Psychological fiction, Philosophical fiction"
+
+  - title: "The Picture of Dorian Gray"
+    author: "Oscar Wilde"
+    publisher: "Ward, Lock and Company"
+    year: 1890
+    genre: "Gothic, Philosophical fiction"
+
+  - title: "The Hobbit"
+    author: "J.R.R. Tolkien"
+    publisher: "George Allen & Unwin"
+    year: 1937
+    genre: "Fantasy, Adventure"
+
+  - title: "Don Quixote"
+    author: "Miguel de Cervantes"
+    publisher: "Francisco de Robles"
+    year: 1605
+    genre: "Parody, Satire"
+
+  - title: "Wuthering Heights"
+    author: "Emily Brontë"
+    publisher: "Thomas Cautley Newby"
+    year: 1847
+    genre: "Gothic, Romance, Tragedy"
+
+  - title: "The Adventures of Huckleberry Finn"
+    author: "Mark Twain"
+    publisher: "Chatto & Windus"
+    year: 1884
+    genre: "Adventure, Satire"
+
+  - title: "Anna Karenina"
+    author: "Leo Tolstoy"
+    publisher: "The Russian Messenger"
+    year: 1877
+    genre: "Realistic fiction, Romance"
+
+  - title: "The Brothers Karamazov"
+    author: "Fyodor Dostoevsky"
+    publisher: "The Russian Messenger"
+    year: 1880
+    genre: "Philosophical fiction, Tragedy"
+
+  - title: "The Road"
+    author: "Cormac McCarthy"
+    publisher: "Alfred A. Knopf"
+    year: 2006
+    genre: "Post-apocalyptic fiction"
+
+  - title: "Gulliver's Travels"
+    author: "Jonathan Swift"
+    publisher: "Benjamin Motte"
+    year: 1726
+    genre: "Satire, Adventure"
+
+  - title: "The Bell Jar"
+    author: "Sylvia Plath"
+    publisher: "Heinemann"
+    year: 1963
+    genre: "Semi-autobiographical, Fiction"
+
+  - title: "Heart of Darkness"
+    author: "Joseph Conrad"
+    publisher: "Blackwood's Magazine"
+    year: 1899
+    genre: "Modernist, Novella"
+
+  - title: "The Road Less Traveled"
+    author: "M. Scott Peck"
+    publisher: "Simon & Schuster"
+    year: 1978
+    genre: "Psychology, Self-help"
+
+  - title: "The Sun Also Rises"
+    author: "Ernest Hemingway"
+    publisher: "Scribner's"
+    year: 1926
+    genre: "Modernist, Novel"
+
+  - title: "The Alchemist"
+    author: "Paulo Coelho"
+    publisher: "HarperCollins"
+    year: 1988
+    genre: "Philosophical fiction"
+
+  - title: "A Tale of Two Cities"
+    author: "Charles Dickens"
+    publisher: "Chapman & Hall"
+    year: 1859
+    genre: "Historical fiction"
+
+  - title: "The Handmaid's Tale"
+    author: "Margaret Atwood"
+    publisher: "McClelland and Stewart"
+    year: 1985
+    genre: "Dystopian, Feminist fiction"
+
+  - title: "The Count of Monte Cristo"
+    author: "Alexandre Dumas"
+    publisher: "Pétion et cie"
+    year: 1844
+    genre: "Adventure, Historical fiction"
