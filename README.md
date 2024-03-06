@@ -17,7 +17,8 @@ print(person.email) # joe.bloggs@example.com
 * Adjective
 * Book
 * Company
-* TCP/IP (ip addresses, port ranges etc)
+* Country
 * Person
+* TCP/IP (ip addresses, port ranges etc)
 
 _more generators are being added, check back for more details or request a generator via GH issues_
