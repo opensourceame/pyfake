@@ -3,7 +3,6 @@ import random
 import yaml
 
 class Company(Renderer):
-
     with open('config/company.yml', 'r') as file:
         CONFIG = yaml.safe_load(file)
 
