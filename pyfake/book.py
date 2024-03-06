@@ -1,12 +1,12 @@
-from .renderer import Renderer
+from .generator import Generator
 import random
 import yaml
 
 with open('config/books.yml', 'r') as file:
     CONFIG = yaml.safe_load(file)
 
-class Book(Renderer):
-    def render(self):
+class Book(Generator):
+    def generate(self):
         data = random.choice(CONFIG)
 
         self.author    = data['author']

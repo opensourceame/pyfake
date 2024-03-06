@@ -1,12 +1,12 @@
-from .renderer import Renderer
+from .generator import Generator
 import random
 import yaml
 
-class Person(Renderer):
+class Person(Generator):
     with open('config/people.yml', 'r') as file:
         CONFIG = yaml.safe_load(file)
 
-    def render(self):
+    def generate(self):
         data = random.choice(self.CONFIG)
 
         self.first_name = data['first_name']

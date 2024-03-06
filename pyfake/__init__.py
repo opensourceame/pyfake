@@ -1,1 +1,1 @@
-__all__ = ['Adjective', 'Company', 'Renderer']
+__all__ = ['Adjective', 'Company', 'Generator']

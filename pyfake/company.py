@@ -1,8 +1,8 @@
-from .renderer import Renderer
+from .generator import Generator
 import random
 import yaml
 
-class Company(Renderer):
+class Company(Generator):
     with open('config/company.yml', 'r') as file:
         CONFIG = yaml.safe_load(file)
 
@@ -12,6 +12,6 @@ class Company(Renderer):
     def company_suffix(self):
         return random.choice(self.CONFIG['suffixes'])
 
-    def render(self):
+    def generate(self):
         self.size = random.randint(1, 100)
         self.name = f"{self.company_name()} {self.company_suffix()}"
