@@ -1,0 +1,263 @@
+- name: Football (Soccer)
+  players: 22
+  equipment:
+    - Ball
+    - Goalposts
+    - Soccer Cleats
+    - Jersey
+    - Shin Guards
+  field_size: "Variable"
+  outdoor: true
+- name: Basketball
+  players: 10
+  equipment:
+    - Ball
+    - Basketball Hoop
+    - Basketball Shoes
+    - Jersey
+  field_size: "Variable"
+  outdoor: true
+- name: Tennis
+  players: 2 or 4
+  equipment:
+    - Ball
+    - Tennis Racket
+    - Tennis Balls
+    - Tennis Shoes
+    - Tennis Court (Net, Lines)
+  field_size: "Variable"
+  outdoor: true
+- name: Baseball
+  players: 18
+  equipment:
+    - Ball
+    - Baseball Bat
+    - Baseball Glove
+    - Baseball Cap
+    - Baseball Shoes
+  field_size: "Variable"
+  outdoor: true
+- name: American Football
+  players: 22
+  equipment:
+    - Football
+    - Helmet
+    - Shoulder Pads
+    - Cleats
+    - Jersey
+  field_size: "Variable"
+  outdoor: true
+- name: Rugby
+  players: 15
+  equipment:
+    - Rugby Ball
+    - Rugby Boots
+    - Mouthguard
+    - Jersey
+  field_size: "Variable"
+  outdoor: true
+- name: Golf
+  players: 1 or 2
+  equipment:
+    - Golf Clubs
+    - Golf Balls
+    - Golf Shoes
+    - Golf Glove
+  field_size: "Variable"
+  outdoor: true
+- name: Cricket
+  players: 22
+  equipment:
+    - Cricket Ball
+    - Cricket Bat
+    - Stumps
+    - Bails
+    - Cricket Pads
+  field_size: "Variable"
+  outdoor: true
+- name: Field Hockey
+  players: 22
+  equipment:
+    - Field Hockey Stick
+    - Ball
+    - Shin Guards
+    - Mouthguard
+    - Cleats
+  field_size: "Variable"
+  outdoor: true
+- name: Ice Hockey
+  players: 12
+  equipment:
+    - Ice Hockey Stick
+    - Puck
+    - Ice Skates
+    - Helmet
+    - Pads (Elbow, Knee, Shoulder)
+  field_size: "Variable"
+  outdoor: false
+- name: Badminton
+  players: 1 or 2
+  equipment:
+    - Shuttlecock
+    - Badminton Racket
+    - Badminton Shoes
+  field_size: "Variable"
+  outdoor: false
+- name: Table Tennis
+  players: 1 or 2
+  equipment:
+    - Table Tennis Ball
+    - Table Tennis Racket
+    - Table Tennis Table
+  field_size: "Variable"
+  outdoor: false
+- name: Swimming
+  players: 1 or more
+  equipment:
+    - Swimsuit
+    - Goggles
+    - Swim Cap
+  field_size: "Variable"
+  outdoor: false
+- name: Cycling
+  players: 1 or more
+  equipment:
+    - Bicycle
+    - Helmet
+    - Cycling Shoes
+    - Cycling Gloves
+  field_size: "Variable"
+  outdoor: true
+- name: Surfing
+  players: 1
+  equipment:
+    - Surfboard
+    - Wetsuit
+    - Leash
+    - Wax
+  field_size: "Variable"
+  outdoor: true
+- name: Skateboarding
+  players: 1
+  equipment:
+    - Skateboard
+    - Helmet
+    - Knee Pads
+    - Elbow Pads
+  field_size: "Variable"
+  outdoor: true
+- name: Snowboarding
+  players: 1
+  equipment:
+    - Snowboard
+    - Snowboard Boots
+    - Snowboard Bindings
+    - Helmet
+    - Goggles
+  field_size: "Variable"
+  outdoor: true
+- name: Skiing
+  players: 1 or more
+  equipment:
+    - Skis
+    - Ski Boots
+    - Ski Poles
+    - Helmet
+    - Goggles
+  field_size: "Variable"
+  outdoor: true
+- name: Boxing
+  players: 2
+  equipment:
+    - Boxing Gloves
+    - Mouthguard
+    - Boxing Shorts
+    - Boxing Shoes
+  field_size: "Variable"
+  outdoor: false
+- name: Wrestling
+  players: 2
+  equipment:
+    - Wrestling Singlet
+    - Wrestling Shoes
+    - Headgear
+  field_size: "Variable"
+  outdoor: false
+- name: Karate
+  players: 1 or more
+  equipment:
+    - Karate Uniform (Gi)
+    - Belt (Rank)
+    - Hand Wraps
+    - Mouthguard
+    - Karate Shoes
+  field_size: "Variable"
+  outdoor: false
+- name: Judo
+  players: 2
+  equipment:
+    - Judo Gi
+    - Belt (Rank)
+    - Mouthguard
+    - Judo Shoes
+  field_size: "Variable"
+  outdoor: false
+- name: Taekwondo
+  players: 1 or more
+  equipment:
+    - Taekwondo Uniform (Dobok)
+    - Belt (Rank)
+    - Shin Guards
+    - Hand Protectors
+    - Foot Protectors
+  field_size: "Variable"
+  outdoor: false
+- name: Fencing
+  players: 2
+  equipment:
+    - Fencing Mask
+    - Fencing Jacket
+    - Fencing Pants
+    - Fencing Glove
+    - Foil, Epee, or Sabre
+  field_size: "Variable"
+  outdoor: false
+- name: Archery
+  players: 1 or more
+  equipment:
+    - Bow
+    - Arrows
+    - Quiver
+    - Armguard
+    - Finger Tab
+  field_size: "Variable"
+  outdoor: true
+- name: Gymnastics
+  players: 1 or more
+  equipment:
+    - Leotard
+    - Gymnastics Shoes
+    - Grips (for bars)
+    - Chalk
+    - Balance Beam, Bars, Vault, Floor Exercise Mat
+  field_size: "Variable"
+  outdoor: false
+- name: Rock Climbing
+  players: 1 or more
+  equipment:
+    - Climbing Shoes
+    - Climbing Harness
+    - Climbing Rope
+    - Carabiners
+    - Belay Device
+  field_size: "Variable"
+  outdoor: true
+- name: Sailing
+  players: 1 or more
+  equipment:
+    - Sailboat
+    - Life Jacket
+    - Sailing Gloves
+    - Rudder, Mast, Sail, Boom
+  field_size: "Variable"
+  outdoor:
