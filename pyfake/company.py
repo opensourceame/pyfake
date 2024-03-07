@@ -1,16 +1,17 @@
 from .generator import Generator
+from pathlib import Path
 import random
 import yaml
 
-class Company(Generator):
-    with open('config/company.yml', 'r') as file:
-        CONFIG = yaml.safe_load(file)
+with open(str(Path(__file__).parent) + '/config/company.yml', 'r') as file:
+    CONFIG = yaml.safe_load(file)
 
+class Company(Generator):
     def company_name(self):
-        return random.choice(self.CONFIG['names'])
+        return random.choice(CONFIG['names'])
 
     def company_suffix(self):
-        return random.choice(self.CONFIG['suffixes'])
+        return random.choice(CONFIG['suffixes'])
 
     def generate(self):
         self.size = random.randint(1, 100)

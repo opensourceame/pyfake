@@ -1,13 +1,14 @@
 from .generator import Generator
+from pathlib import Path
 import yaml
 import random
 
-class Country(Generator):
-    with open('config/countries.yml', 'r') as file:
-        CONFIG = yaml.safe_load(file)
+with open(str(Path(__file__).parent) + '/config/countries.yml', 'r') as file:
+    CONFIG = yaml.safe_load(file)
 
+class Country(Generator):
     def generate(self):
-        data = random.choice(self.CONFIG)
+        data = random.choice(CONFIG)
 
         self.name         = data['name']
         self.currency     = data['currency']

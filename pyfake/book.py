@@ -1,8 +1,9 @@
 from .generator import Generator
+from pathlib import Path
 import random
 import yaml
 
-with open('config/books.yml', 'r') as file:
+with open(str(Path(__file__).parent) + '/config/books.yml', 'r') as file:
     CONFIG = yaml.safe_load(file)
 
 class Book(Generator):
