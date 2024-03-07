@@ -1,13 +1,14 @@
 from .generator import Generator
+from pathlib import Path
 import random
 import yaml
 
-class Person(Generator):
-    with open('config/people.yml', 'r') as file:
-        CONFIG = yaml.safe_load(file)
+with open(str(Path(__file__).parent) + '/config/people.yml', 'r') as file:
+    CONFIG = yaml.safe_load(file)
 
+class Person(Generator):
     def generate(self):
-        data = random.choice(self.CONFIG)
+        data = random.choice(CONFIG)
 
         self.first_name = data['first_name']
         self.last_name  = data['last_name']

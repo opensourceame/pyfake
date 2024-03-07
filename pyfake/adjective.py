@@ -1,14 +1,15 @@
 from .generator import Generator
+from pathlib import Path
 import random
 import yaml
 
+with open(str(Path(__file__).parent) + '/config/adjectives.yml', 'r') as file:
+    CONFIG = yaml.safe_load(file)
 
 class Adjective(Generator):
-    with open("config/adjectives.yml", "r") as file:
-        CONFIG = yaml.safe_load(file)
-
     def adjective(self):
-        return random.choice(self.CONFIG["adjectives"])
+        print(CONFIG)
+        return random.choice(CONFIG)
 
     def generate(self):
         self.adjective = self.adjective()
